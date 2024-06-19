@@ -1,51 +1,36 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Grande Poeta ChatGPT
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Este repositório trata-se de um projeto que consiste na elaboração de poemas através de IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- ChatGPT: Utilizado para a geração de conteúdo em texto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Os poemas foram gerados em formato de texto através do ChatGPT. Para isso foi passado o seguinte Script:
+
+- “Comporte-se como Carlos Drummond de Andrade e crie um poema”
+
+O Script foi passado sem muitos detalhes, a única regra foi para que o poema seja criado como se fosse escrito pelo poeta brasileiro Carlos Drummond de Andrade.
+
+Em seguida, foi solicitado a criação de mais um poema.
+
+Por último foi selecionado um poema real escrito por Drummond para “comparação” com os criados.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Como resultado, foram criados dois poemas, sendo eles:
+- [Caminhos de Marmore](/poemas/Caminhos%20de%20Marmore.txt)
+- [Incrição na Pedra](/poemas/Inscricao%20na%20Pedra.txt)
 
-### Exemplos e Insigths
+Poema real para comparação entre os estilos:
+- [No Meio do Caminho](/poemas/No%20Meio%20do%20Caminho.txt)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
+## 💭 Reflexão
+O ChatGPT se mostrou mais uma vez uma ferramenta fantástica de IA. Esta é capaz não só de reunir e apresentar informações já existentes, mas também na criação de algo a partir de uma referência. Comparando o que foi criado com as obras já existente do autor, é possível notar a presença de características das obras de Drummond nos poemas gerados pela IA. 
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
